@@ -899,6 +899,12 @@
 }
 
 @media (max-width: 480px) {
+  .feedback
+	{
+	float:right;
+
+	}
+  
   .nav-collapse {
     -webkit-transform: translate3d(0, 0, 0);
   }
@@ -1103,6 +1109,8 @@
 }
 
 @media (min-width: 980px) {
+	
+	
   .nav-collapse.collapse {
     height: auto !important;
     overflow: visible !important;

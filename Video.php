@@ -112,13 +112,15 @@ xmlhttp.send();
       <div class="navbar-inner">
         <div class="container">
           <ul class="nav">
-            <!-- InstanceBeginEditable name="Navs" --><li><a href="index.php">Home</a></li>
+            <!-- InstanceBeginEditable name="Navs" -->
+			<li><a href="index.php">Home</a></li>
             <li><a href="student.php">Students</a></li>
-            <li class="active"><a href="parent.php">Parents</a></li>
+            <li><a href="parent.php">Parents</a></li>
             <li><a href="teacher.php">Teachers</a></li>
             <li><a href="career.php">Career Advisor</a></li>
             <li><a href="faq.php">FAQ</a></li>
-            <li><a href="sitemap.php">Site Map</a></li><!-- InstanceEndEditable -->
+            <li><a href="sitemap.php">Site Map</a></li>
+			<!-- InstanceEndEditable -->
             
           </ul>
         </div>
@@ -151,32 +153,31 @@ xmlhttp.send();
 </div>
 
 
-<!-- InstanceBeginEditable name="EditRegion4" --><div class="span12">
- <div class="span7">
- <br><br>
+<!-- InstanceBeginEditable name="EditRegion4" -->
 
-<iframe width="650" height="345" src="//www.youtube.com/embed/_ekllIZDXgk" frameborder="0" allowfullscreen></iframe>
+<div class="span12">
 
-<br><br>
+	<div class="span6 offset3">
+    	<ul>
+        	<li><a href="https://www.youtube.com/watch?v=rlqbabWsAog" style="color:#000;" target="_blank">The views of Students</a></li>
+            <li><a href="https://www.youtube.com/watch?v=0zr0RAi6hZM" style="color:#000;" target="_blank">Women In ICT</a></li>
+            <li><a href="https://www.youtube.com/watch?v=fxjg2doultk" style="color:#000;" target="_blank">ICT in Education</a></li>
+            <li><a href="https://www.youtube.com/watch?v=fxjg2doultk" style="color:#000;" target="_blank">Enhancing learning</a></li>
+            <li><a href="https://www.youtube.com/watch?v=_ekllIZDXgk" style="color:#000;" target="_blank">Why children should opt ICT</a></li>
+            <li><a href="https://www.youtube.com/watch?v=bIRSXqOs988" style="color:#000;" target="_blank">why use ICT in teaching and learning</a></li>
+
+            
+            
+
+            
+   
+    	</ul>
+    </div>
+
 </div>
 
-<div class="span4">
-<br><br>
-  <p>Parent links
-  <ul>
-  <li><a href="http://australia.gov.au/topics/ict-graduate-program" style="color:#000">Programs</a></li>
-  <li><a href="http://australia.gov.au/topics/ict-graduate-program" style="color:#000">Courses</a></li>
-  </ul>
- 
-  <br><br>
-</div>
- 
- </div>  
- 
-  
- 
- 
-      <!-- InstanceEndEditable -->
+
+<!-- InstanceEndEditable -->
 
 
 

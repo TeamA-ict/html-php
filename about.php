@@ -112,13 +112,7 @@ xmlhttp.send();
       <div class="navbar-inner">
         <div class="container">
           <ul class="nav">
-            <!-- InstanceBeginEditable name="Navs" --><li><a href="index.php">Home</a></li>
-            <li><a href="student.php">Students</a></li>
-            <li class="active"><a href="parent.php">Parents</a></li>
-            <li><a href="teacher.php">Teachers</a></li>
-            <li><a href="career.php">Career Advisor</a></li>
-            <li><a href="faq.php">FAQ</a></li>
-            <li><a href="sitemap.php">Site Map</a></li><!-- InstanceEndEditable -->
+            <!-- InstanceBeginEditable name="Navs" --><!-- InstanceEndEditable -->
             
           </ul>
         </div>
@@ -153,29 +147,31 @@ xmlhttp.send();
 
 <!-- InstanceBeginEditable name="EditRegion4" --><div class="span12">
  <div class="span7">
- <br><br>
-
-<iframe width="650" height="345" src="//www.youtube.com/embed/_ekllIZDXgk" frameborder="0" allowfullscreen></iframe>
-
-<br><br>
-</div>
-
-<div class="span4">
-<br><br>
-  <p>Parent links
-  <ul>
-  <li><a href="http://australia.gov.au/topics/ict-graduate-program" style="color:#000">Programs</a></li>
-  <li><a href="http://australia.gov.au/topics/ict-graduate-program" style="color:#000">Courses</a></li>
-  </ul>
  
-  <br><br>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d806400.0834064055!2d145.07961604999997!3d-37.860282799999986!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad646b5d2ba4df7%3A0x4045675218ccd90!2sMelbourne+VIC!5e0!3m2!1sen!2sau!4v1410931281358" width="650" height="345" frameborder="0" style="border:0"></iframe>
+</div>
+<div class="span4">
+
+  <p>Student links
+  
+  <br>Read More >></p>
 </div>
  
  </div>  
  
   
  
+ <div class="span12">
+ <br><br>
  
+  <div class="span3"><h4>Getting More Women in Tech</h4> <a href="https://www.youtube.com/watch?v=zEsx1bddmOg"><img src="images/vid1.jpg"></a></div>
+ <div class="span3"><h4>Women In ICT</h4><a href="https://www.youtube.com/watch?v=0zr0RAi6hZM"><img src="images/vid2.jpg"></a></div>
+ <div class="span3"><h4>ICT in Education</h4><a href="https://www.youtube.com/watch?v=fxjg2doultk"><img src="images/vid3.jpg"></a></div>
+ <div class="span3"><h4>Enhancing learning</h4><a href="https://www.youtube.com/watch?v=fxjg2doultk"><img src="images/vid4.jpg"></a></div>
+ 
+ 
+ </div>    
       <!-- InstanceEndEditable -->
 
 

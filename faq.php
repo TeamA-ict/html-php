@@ -112,13 +112,17 @@ xmlhttp.send();
       <div class="navbar-inner">
         <div class="container">
           <ul class="nav">
-            <!-- InstanceBeginEditable name="Navs" --><li><a href="index.php">Home</a></li>
+            <!-- InstanceBeginEditable name="Navs" -->
+			<li><a href="index.php">Home</a></li>
             <li><a href="student.php">Students</a></li>
-            <li class="active"><a href="parent.php">Parents</a></li>
+            <li><a href="parent.php">Parents</a></li>
             <li><a href="teacher.php">Teachers</a></li>
             <li><a href="career.php">Career Advisor</a></li>
-            <li><a href="faq.php">FAQ</a></li>
-            <li><a href="sitemap.php">Site Map</a></li><!-- InstanceEndEditable -->
+            <li class="active"><a href="faq.php">FAQ</a></li>
+            <li><a href="sitemap.php">Site Map</a></li>
+			
+			
+			<!-- InstanceEndEditable -->
             
           </ul>
         </div>
@@ -151,32 +155,40 @@ xmlhttp.send();
 </div>
 
 
-<!-- InstanceBeginEditable name="EditRegion4" --><div class="span12">
- <div class="span7">
- <br><br>
+<!-- InstanceBeginEditable name="EditRegion4" -->
+<div class="container">
+<br>
+<div class="span2" style="padding:47px;">
+<h3>Services For</h3>
+<ul>
+<li><a href="student.php" style="color:#000;">Students</a></li>
+<li><a href="teacher.php" style="color:#000;">Teachers</a></li>
+<li><a href="career.php" style="color:#000;">Career Advisors</a></li>
+<li><a href="parent.php" style="color:#000;">Parents</a></li>
 
-<iframe width="650" height="345" src="//www.youtube.com/embed/_ekllIZDXgk" frameborder="0" allowfullscreen></iframe>
-
-<br><br>
+</ul>
 </div>
 
-<div class="span4">
-<br><br>
-  <p>Parent links
-  <ul>
-  <li><a href="http://australia.gov.au/topics/ict-graduate-program" style="color:#000">Programs</a></li>
-  <li><a href="http://australia.gov.au/topics/ict-graduate-program" style="color:#000">Courses</a></li>
-  </ul>
- 
-  <br><br>
+
+
+<div class="span8" style="background-color:#CCC; padding:47px;">
+<h3>FAQ</h3>
+<br>
+<p><strong>Q1:</strong> Introduction</p>
+<p>We have put together answers to some of the more commonly asked questions. Please check here first to see if there is a solution to your question. If you cannot find the answer, please contact us at sachila_sunchi@yahoo.com</p>
+<p><strong>Q2:</strong> Can I search the relative ICT education information?</p>
+<p>Yes. We provide the information for ICT education. You can check from the video. </p>
+<p><strong>Q3:</strong> Can I see the some success stories about ICT career?</p>
+<p>Yes. We provide the success stories about ICT and guideline for ICT career.</p>
+<p><strong>Q4:</strong> Can I check the women in ICT career?</p>
+<p>Yes. We provide the  information about women in ICT career.</p>
+
+
 </div>
- 
- </div>  
- 
-  
- 
- 
-      <!-- InstanceEndEditable -->
+</div>
+
+
+<!-- InstanceEndEditable -->
 
 
 

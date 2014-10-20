@@ -112,13 +112,15 @@ xmlhttp.send();
       <div class="navbar-inner">
         <div class="container">
           <ul class="nav">
-            <!-- InstanceBeginEditable name="Navs" --><li><a href="index.php">Home</a></li>
+            <!-- InstanceBeginEditable name="Navs" -->
+			<li><a href="index.php">Home</a></li>
             <li><a href="student.php">Students</a></li>
-            <li class="active"><a href="parent.php">Parents</a></li>
+            <li><a href="parent.php">Parents</a></li>
             <li><a href="teacher.php">Teachers</a></li>
             <li><a href="career.php">Career Advisor</a></li>
             <li><a href="faq.php">FAQ</a></li>
-            <li><a href="sitemap.php">Site Map</a></li><!-- InstanceEndEditable -->
+            <li class="active"><a href="sitemap.php">Site Map</a></li>
+			<!-- InstanceEndEditable -->
             
           </ul>
         </div>
@@ -151,32 +153,73 @@ xmlhttp.send();
 </div>
 
 
-<!-- InstanceBeginEditable name="EditRegion4" --><div class="span12">
- <div class="span7">
- <br><br>
+<!-- InstanceBeginEditable name="EditRegion4" -->
+<div class="container">
+<br>
+<div class="span2" style="padding:47px;">
+<h3>Services For</h3>
+<ul>
+<li><a href="student.php" style="color:#000;">Students</a></li>
+<li><a href="teacher.php" style="color:#000;">Teachers</a></li>
+<li><a href="career.php" style="color:#000;">Career Advisors</a></li>
+<li><a href="parent.php" style="color:#000;">Parents</a></li>
 
-<iframe width="650" height="345" src="//www.youtube.com/embed/_ekllIZDXgk" frameborder="0" allowfullscreen></iframe>
-
-<br><br>
+</ul>
 </div>
 
-<div class="span4">
-<br><br>
-  <p>Parent links
-  <ul>
-  <li><a href="http://australia.gov.au/topics/ict-graduate-program" style="color:#000">Programs</a></li>
-  <li><a href="http://australia.gov.au/topics/ict-graduate-program" style="color:#000">Courses</a></li>
-  </ul>
- 
-  <br><br>
+
+
+<div class="span8" style="background-color:#CCC; padding:47px;">
+<h3>Sitemap</h3>
+<br>
+<ul>
+<li><a href="http://sachtest.atwebpages.com/index.php" style="color:#000;"><strong>Home</strong></a></li>
+<ul>
+    <li>Social Networking</li>
+    	<ul>
+            <li><a href="http://www.facebook.com" style="color:#000;">Facebook</a></li>
+            <li><a href="http://www.twitter.com" style="color:#000;">Twitter</a></li>
+            <li><a href="http://www.linkedin.com" style="color:#000;">LinkedIn</a></li>
+        </ul>
+    <li>Search</li>
+    <li>Most favourite Links</li>
+    <li>Videos</li>
+    	<ul>
+        <li><a href="https://www.youtube.com/watch?v=0zr0RAi6hZM" style="color:#000;">Women in ICT field</a></li>
+        <li><a href="https://www.youtube.com/watch?v=7Y__fFMxdgY#t=70" style="color:#000;">Transition to IT</a></li>
+        </ul>
+    
+    <li>Learning Guide</li>
+    	<ul>
+        <li><a href="http://www.lifehacker.com.au/2014/07/how-the-tech-industry-can-attract-more-female-employees/" style="color:#000;">ICT Education</a></li>
+        <li><a href="http://gogirl.org.au/index.php/2014/06/women-in-it-interviews-i/" style="color:#000;">Why choose ICT </a></li>
+    	</ul>
+    <li>News & Events</li>
+    <ul>
+        <li><a href="http://www.careershifters.org/success-stories/from-art-editor-to-photographer-and-graphic-designer" style="color:#000;">Transition to ICT</a></li> 
+        <li><a href="http://au.gradconnection.com/internships/information-technology/" style="color:#000;">New Internships</a></li> 
+    </ul>
+    <li>Educational Games</li>
+    <ul>
+        <li><a href="http://primarygamesarena.com/6th-Grade#Computers" style="color:#000;">Year 5-7</a></li> 
+        <li><a href="http://www.helpteaching.com/questions/Technology/Grade_8" style="color:#000;">year 8-10</a></li> 
+    </ul>
+    <li>Monthly news letter</li>
+</ul>
+
+<li><a href="http://sachtest.atwebpages.com/student.php" style="color:#000;"><strong>Students</strong></a></li> 
+<li><a href="http://sachtest.atwebpages.com/parent.php" style="color:#000;"><strong>Parents</strong></a></li> 
+<li><a href="http://sachtest.atwebpages.com/teacher.php" style="color:#000;"><strong>Teachers</strong></a></li>
+<li><a href="http://sachtest.atwebpages.com/career.php" style="color:#000;"><strong>Career Advisor</strong></a></li>
+<li><a href="http://sachtest.atwebpages.com/faq.php" style="color:#000;"><strong>FAQ</strong></a></li>
+<li><a href="http://sachtest.atwebpages.com/sitemap.php" style="color:#000;"><strong>Site Map</strong></a></li>
+
+</ul>
 </div>
- 
- </div>  
- 
-  
- 
- 
-      <!-- InstanceEndEditable -->
+</div>
+
+
+<!-- InstanceEndEditable -->
 
 
 

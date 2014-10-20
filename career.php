@@ -112,13 +112,16 @@ xmlhttp.send();
       <div class="navbar-inner">
         <div class="container">
           <ul class="nav">
-            <!-- InstanceBeginEditable name="Navs" --><li><a href="index.php">Home</a></li>
+            <!-- InstanceBeginEditable name="Navs" -->
+			<li><a href="index.php">Home</a></li>
             <li><a href="student.php">Students</a></li>
-            <li class="active"><a href="parent.php">Parents</a></li>
+            <li><a href="parent.php">Parents</a></li>
             <li><a href="teacher.php">Teachers</a></li>
-            <li><a href="career.php">Career Advisor</a></li>
+            <li class="active"><a href="career.php">Career Advisor</a></li>
             <li><a href="faq.php">FAQ</a></li>
-            <li><a href="sitemap.php">Site Map</a></li><!-- InstanceEndEditable -->
+            <li><a href="sitemap.php">Site Map</a></li>
+			
+			<!-- InstanceEndEditable -->
             
           </ul>
         </div>
@@ -151,31 +154,34 @@ xmlhttp.send();
 </div>
 
 
-<!-- InstanceBeginEditable name="EditRegion4" --><div class="span12">
+<!-- InstanceBeginEditable name="EditRegion4" -->
+<div class="span12">
  <div class="span7">
- <br><br>
+ <br>
+ <br>
 
-<iframe width="650" height="345" src="//www.youtube.com/embed/_ekllIZDXgk" frameborder="0" allowfullscreen></iframe>
+<iframe width="650" height="345" src="//www.youtube.com/embed/fxjg2doultk" frameborder="0" allowfullscreen></iframe>
 
-<br><br>
+<br>
+ <br>
 </div>
-
 <div class="span4">
-<br><br>
-  <p>Parent links
+<br>
+ <br>
+
+  <p>Adviser links
   <ul>
   <li><a href="http://australia.gov.au/topics/ict-graduate-program" style="color:#000">Programs</a></li>
   <li><a href="http://australia.gov.au/topics/ict-graduate-program" style="color:#000">Courses</a></li>
   </ul>
  
-  <br><br>
+  <br>
+ <br>
 </div>
  
  </div>  
  
   
- 
- 
       <!-- InstanceEndEditable -->
 
 
